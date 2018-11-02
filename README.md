@@ -7,8 +7,11 @@ The input file is a list of GO enrichment analysis files.
 For example, the "list_of_files.txt" should look like:
 
 homeologs_30C_12C_SC_Component_Down.txt
+
 homeologs_30C_12C_SC_Component_UP.txt
+
 homeologs_30C_12C_SC_Function_Down.txt
+
 homeologs_30C_12C_SC_Function_UP.txt
 
 Each of GO enrichment files should be formatted as standard SGD GO enrichment file.
